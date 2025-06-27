@@ -1,4 +1,4 @@
-const cacheName = "Vordock-Porong-0.3";
+const cacheName = "Vordock-Porong-0.4";
 const contentToCache = [
     "Build/porong.loader.js",
     "Build/porong.framework.js.unityweb",
