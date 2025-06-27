@@ -1,2 +1,0 @@
-# porong
-porong game repo
